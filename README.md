@@ -1,2 +1,2 @@
-# -Natural-Disaster-Classification-using-CNN
+# Natural Disaster Classification using CNN
 Let's save earth
